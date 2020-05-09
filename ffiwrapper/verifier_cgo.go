@@ -8,7 +8,7 @@ import (
 
 	"go.opencensus.io/trace"
 
-	ffi "github.com/filecoin-project/filecoin-ffi"
+	ffi "github.com/sbwtw/filecoin-ffi"
 	"github.com/filecoin-project/specs-actors/actors/abi"
 
 	"github.com/filecoin-project/sector-storage/stores"
