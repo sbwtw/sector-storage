@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/elastic/go-sysinfo v1.3.0
-	github.com/filecoin-project/filecoin-ffi v0.26.0
+	github.com/sbwtw/filecoin-ffi v0.26.0
 	github.com/filecoin-project/go-fil-commcid v0.0.0-20200208005934-2b8bd03caca5
 	github.com/filecoin-project/go-paramfetch v0.0.1
 	github.com/filecoin-project/sector-storage v0.0.0-20200509005126-ebc27d314ba4

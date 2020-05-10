@@ -25,6 +25,7 @@ github.com/elastic/go-windows v1.0.0 h1:qLURgZFkkrYyTTkvYpsZIgf83AUsdIHfvlJaqaZ7
 github.com/elastic/go-windows v1.0.0/go.mod h1:TsU0Nrp7/y3+VwE82FoZF8gC/XFg/Elz6CcloAxnPgU=
 github.com/fatih/color v1.8.0 h1:5bzFgL+oy7JITMTxUPJ00n7VxmYd/PdMp5mHFX40/RY=
 github.com/fatih/color v1.8.0/go.mod h1:3l45GVGkyrnYNl9HoIjnp2NnNWvh6hLAqD8yTfGjnw8=
+github.com/filecoin-project/filecoin-ffi v0.0.0-20200326153646-e899cc1dd072 h1:7csaynzG5QwAEWR7nFoVeGLDyE2Oqd5qNmd+KoA0Hk4=
 github.com/filecoin-project/filecoin-ffi v0.0.0-20200326153646-e899cc1dd072/go.mod h1:PtH9YP0rURHUKHrKeEBeWg/BqIBMQOz8wtlXlVGREBE=
 github.com/filecoin-project/filecoin-ffi v0.26.0 h1:KZpETldoCWZnNxBhwmr3juFGKxI7iX3Bd9WPB1ODwKs=
 github.com/filecoin-project/filecoin-ffi v0.26.0/go.mod h1:Faulr4245EjBirj999LsIRq1+O2R4GXqX6XnHJVd1jA=
