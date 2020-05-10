@@ -4,12 +4,12 @@ go 1.13
 
 require (
 	github.com/elastic/go-sysinfo v1.3.0
-	github.com/sbwtw/filecoin-ffi v0.26.0
+	github.com/filecoin-project/filecoin-ffi v0.0.0-20200326153646-e899cc1dd072 // indirect
 	github.com/filecoin-project/go-fil-commcid v0.0.0-20200208005934-2b8bd03caca5
 	github.com/filecoin-project/go-paramfetch v0.0.1
-	github.com/filecoin-project/sector-storage v0.0.0-20200509005126-ebc27d314ba4
-	github.com/filecoin-project/specs-actors v0.4.1-0.20200508202406-42be6629284d
+	github.com/filecoin-project/specs-actors v0.4.0
 	github.com/filecoin-project/specs-storage v0.0.0-20200417134612-61b2d91a6102
+	github.com/google/uuid v1.1.1 // indirect
 	github.com/gorilla/mux v1.7.4
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/ipfs/go-cid v0.0.5
@@ -18,7 +18,7 @@ require (
 	github.com/ipfs/go-log/v2 v2.0.3
 	github.com/mattn/go-isatty v0.0.9 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/sbwtw/filecoin-ffi v0.25.1-0.20200509072349-59c17ba487bd
+	github.com/sbwtw/filecoin-ffi v0.26.0
 	go.opencensus.io v0.22.3
 	go.uber.org/atomic v1.5.1 // indirect
 	go.uber.org/zap v1.13.0 // indirect
